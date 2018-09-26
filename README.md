@@ -1,2 +1,2 @@
-# GECCO2-Project
-Gradient with Eddy Covariance CO2 Project uses co-located soil profile carbon dioxide sensors and eddy covariance towers to improve our mechanistic understanding of soil and ecosystem carbon cycling in cold-desert ecosystems
+# Gradient with Eddy Covariance CO2 (GECCO2) Project
+GECCO2 uses co-located and high frequency measures of soil and ecosystem carbon dioxide (CO2) flux to improve our mechanistic understanding of soil and ecosystem carbon cycling in cold-desert ecosystems. The project was developed by Dr. David Huber and Dr. Mark Seyfried, and includes collaborators on ecosystem carbon fluxes and model development. The intended use of this code for the initial release is calculation of CO2 flux and production values throughout soil profiles.
